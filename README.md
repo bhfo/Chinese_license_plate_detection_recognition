@@ -11,9 +11,6 @@
 [安卓NCNN](https://github.com/Ayers-github/Chinese-License-Plate-Recognition)
 
 ## 联系
-**模型用的是公开数据集训练出来的，需要准确率更高的模型，或者商务合作请加V**
-
-**可代做学生毕设，以及课设大作业等**
 
 **wechat: we0091234  （注明来意）**
 
